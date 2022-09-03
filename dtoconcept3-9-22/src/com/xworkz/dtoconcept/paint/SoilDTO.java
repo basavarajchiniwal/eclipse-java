@@ -64,7 +64,7 @@ public class SoilDTO implements Serializable {
 			System.out.println("object is not null");
 			if (obj instanceof SoilDTO) {
 				SoilDTO casted = (SoilDTO) obj;
-				if (casted.color.equals(this.color) && casted.name.equals(this.name)) {
+				if (casted.sand.equals(this.sand) && casted.color.equals(this.color)) {
 					System.out.println("both are same");
 					return true;
 				} else {
@@ -77,8 +77,6 @@ public class SoilDTO implements Serializable {
 		}
 		return super.equals(obj);
 	}
-
-}
 
 	public int getTypeSoil() {
 		return typeSoil;
