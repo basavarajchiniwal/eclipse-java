@@ -8,7 +8,7 @@
 
 </head>
 <h1>SUCCESS AGIDE NODI SWAMY </h1>
-<body background:"C:\Users\HP\OneDrive\Desktop\git eclipse\primemisinsterservlet\src\main\webapp\air.mov">
+<body>
 
 <br> NAME  :${Name}
 <br> COUNTRY  :${world}
