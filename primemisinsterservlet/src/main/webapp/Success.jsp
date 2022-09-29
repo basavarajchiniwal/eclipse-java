@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 
 </head>
-<h1>SUCCESS AGIDE NODI SWAMY </h1>
+<h1>NIMMA DETAILS NAMMA BALI</h1>
 <body>
 
 <br> NAME  :${Name}

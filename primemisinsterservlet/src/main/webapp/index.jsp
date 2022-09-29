@@ -10,8 +10,10 @@
 <body>
 
 <form action="pm" method="post">
-
+<fieldset>
+<legend>ENTER PRIME MINISTER DETAILS:</legend>
 Name: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="text" id = "name" name = "name"/>
+
 <br><br>
 
 Country :&nbsp;&nbsp;
@@ -65,10 +67,12 @@ Times Represented :&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <option value ="2">2</option>
 <option value = "3">3</option>
 <option value = "4">4</option>
+<option value = "5">5</option>
 <br>
 </Select><br><br>
 
-<input type="submit" value="SAVE">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="submit" value="SAVE">
+</fieldset>
 </form>
 </body>
 </html>
