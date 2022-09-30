@@ -1,0 +1,2 @@
+public            static                void        main      (String[] args)
+access specifire; non access specifire;return type;method name(parameters) throws classname

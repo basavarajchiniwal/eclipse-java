@@ -1,0 +1,12 @@
+methods
+1 static access through class name 
+2 non static 
+parameters and arguments
+drone function fly() captureImage()
+local variable within the body of method 
+class Remote
+{
+System.out
+
+
+}

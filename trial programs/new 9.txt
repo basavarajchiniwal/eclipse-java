@@ -1,0 +1,16 @@
+class Number
+{
+public void findEvenOdd(int num)
+{
+if(num%2==0)
+{
+System.out.println("number is even");
+}
+else{
+Sytem.out.println("number is odd")
+}
+}
+public static void main(String [] args)
+{
+findEvenOdd(8)
+}

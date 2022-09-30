@@ -1,0 +1,19 @@
+/*Hotel, Cab, Helmet ,Cloth, Hospital, ShowRoom
+
+
+13 Properties  declare using literal/ keep it default
+
+
+13*6 = 78 
+6 main methods == print + re-assing + print 
+39 * 6 = 234
+
+312 */
+class Hotel1
+{
+	public static void main(String[] args)
+	{
+	
+	
+	}
+}

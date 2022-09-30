@@ -1,0 +1,15 @@
+class bengalore
+{
+	public static void main(String[] args
+	{
+		String city="bengaluru capital city of karnataka";
+		System.out.println(city);
+		
+	
+	
+	
+	}
+
+
+
+}

@@ -1,0 +1,20 @@
+JAVA INDEX
+
+CLASS
+public static void main(String[] args)
+*syntax
+*process
+datatypes
+variables
+memory allocation of variable
+methods
+*types
+*declaration of methods
+*syntaxes of methods
+*process
+method overloading
+*syntaxex
+*rules for method overloadig
+*process
+*implementation
+
